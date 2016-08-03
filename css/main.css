@@ -1,0 +1,79 @@
+/* Inserta tu codigo aqui */
+header img{
+	width: 30%;
+	height: 30%;
+	margin-top: 5px;
+}
+
+nav{
+	margin-top: 5%;
+	margin-bottom: 3%;
+}
+
+a{
+	padding: 0px 10px;
+  	text-decoration: none;
+  	font-weight: bold;
+  	font-size: 12px;
+}
+
+.bordeDer{
+	border-right: 1px solid #4D4D4D;
+}
+
+.fondo{
+	background-image: url("../img/semilla.jpg");
+	height: 500px;
+}
+
+.fondo2{
+	height: 30%;
+	margin-top: 500px;
+}
+
+.fondo3{
+	background-image: url("../img/fondo.jpg");
+	height: 350px;
+}
+
+.metodo{
+	width: 100%;
+	height: 350px;
+}
+
+.left{
+	padding-left: 80px;
+}
+
+.bottom{
+	padding-bottom: none;
+}
+
+.proyecto{
+	width: 100%;
+	padding:0% 15%;
+}
+.letra{
+	padding-left: 15%;
+	padding-top: 5%;
+}
+
+.border{
+	height: 250px;
+	width: 250px;
+	border-radius: 100%;
+	margin-left:20%;
+}
+
+.top{
+	margin-top: 7%;
+}
+
+.redes{
+	width: 10%;
+
+}
+
+.twitter{
+	margin-left: 150px;
+}
